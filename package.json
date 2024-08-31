@@ -1,0 +1,36 @@
+{
+    "name": "NEO-Piece",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build",
+        "build": "npx mix",
+        "mix-watch": "npx mix watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Foyezrabbi/NEO-Piece.git"
+    },
+    "keywords": [],
+    "author": "Fozle Rabbi",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Foyezrabbi/NEO-Piece.git/issues"
+    },
+    "homepage": "https://github.com/Foyezrabbi/NEO-Piecet",
+    "devDependencies": {
+        "laravel-mix": "^6.0.25",
+        "prettier": "2.3.2"
+    },
+    "dependencies": {
+        "@babel/preset-react": "^7.14.5",
+        "framer-motion": "^4.1.17",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "react-icomoon": "^2.3.5",
+        "react-router-dom": "^5.2.0",
+        "styled-components": "^5.3.0"
+    }
+}
