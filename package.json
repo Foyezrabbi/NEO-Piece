@@ -19,7 +19,7 @@
     "bugs": {
         "url": "https://github.com/Foyezrabbi/NEO-Piece.git/issues"
     },
-    "homepage": "https://Foyezrabbi.github.io/NEO-Piecet",
+    "homepage": "https://Foyezrabbi.github.io/NEO-Piece",
     "devDependencies": {
         "laravel-mix": "^6.0.25",
         "prettier": "2.3.2"
