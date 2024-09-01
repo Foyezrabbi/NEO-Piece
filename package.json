@@ -2,12 +2,14 @@
     "name": "NEO-Piece",
     "version": "1.0.0",
     "description": "",
-    "main": "src/index.js",
+    "main": "index.js",
     "scripts": {
-        "predeploy": "npm run build",
-        "deploy": "gh-pages -b gh-pages -d build",
-        "build": "npx mix",
-        "mix-watch": "npx mix watch"
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "eject": "react-scripts eject",
+    "start": "react-scripts start",
+    "test": "react-scripts test"
     },
     "repository": {
         "type": "git",
