@@ -71,8 +71,8 @@ Hello! This is my solution to [Planets fact site - Frontend Mentor](https://www.
 To run this project, clone it and install it locally using npm:
 
 ```
-$ git clone git@github.com:tediko/planets-fact.git
-$ cd planets-fact
+$ git clone git@github.com:Foyezrabbi/NEO-piece.git
+$ cd NEO-piece
 $ npm install
 ```
 
