@@ -18,7 +18,7 @@
 
 ### Intro
 
-Hello! This is my solution to [Planets fact site - Frontend Mentor](https://www.frontendmentor.io/challenges/planets-fact-site-gazqN8w_f). This is my second project build with **_React JS_**. This time I had the opportunity to try _styled-components_. It is a very powerful tool, but I believe it takes time to learn good practices and organize the code. Right now, I have the feeling that my styles are chaotic but I'm looking forward to correct it and use styled-components to its full potential. In order not to stick to design, I decided to recreate the animated solar system as the home page. Additionally, I added transitions while the subpage/route change.
+NEO-Piece is an interactive web app designed to bring the wonders of the cosmos to your fingertips. This modern orrery goes beyond the traditional models by offering a dynamic, embedded experience that allows users to explore not only planets but also Near-Earth Objects (NEOs) such as asteroids, comets, and even Potentially Hazardous Asteroids (PHAs). With NEO-Piece, you can immerse yourself in the intricacies of celestial mechanics, gaining insights into the movement and characteristics of these fascinating objects that inhabit our solar neighborhood.
 
 ### The challenge
 
